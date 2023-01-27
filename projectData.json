@@ -1,0 +1,54 @@
+[
+  {
+    "id":1,
+    "name":"Socail Media",
+    "img":"SocialAppImg",
+    "color":"blue",
+    "details":"This is full stack social app with user authentication and also user can create post , like post , comment to a particular post",
+    "tech":[
+      {
+        "title":"React",
+        "logo":"react",
+        "details":"React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
+      },
+      {
+        "title":"Nextjs",
+        "logo":"nextjs",
+        "details":"Nextjs is a framework base on react allow dev to build SPA and SSR app, and Static web site with no configuration…"
+      },
+      {
+        "title":"Tailwind css",
+        "logo":"tailwind",
+        "details":"Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables"
+      },{
+        "title":"NodeJs",
+        "logo":"nodejs",
+        "details":"Nodejs is javascript runtime environment which helps js file to run outside of the browser resulting in making backend of a projects."
+      }
+    ]
+  },
+  {
+    "id":2,
+    "name":"Chat GPT Clone",
+    "img":"ChatgptImg",
+    "color":"orange",
+    "details":"Chat GPT is an AI built to generate answers to the questions asked by users. It is so accurate that sometimes it feels like we are chating to some person with tons of knowledge",
+    "tech":[
+      {
+        "title":"React",
+        "logo":"react",
+        "details":"React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
+      },
+      {
+        "title":"Tailwind css",
+        "logo":"tailwind",
+        "details":"Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables"
+      },
+      {
+        "title":"Chat gpt API",
+        "logo":"chatgptlogo",
+        "details":"ChatGPT provides an API where any user can use it to make a real type services."
+      }
+     ]
+  }
+]
